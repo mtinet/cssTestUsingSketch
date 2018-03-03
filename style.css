@@ -1,0 +1,27 @@
+body {
+  background: #666;
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+}
+
+.rectangle {
+  background: #D8D8D8;
+  border: 1px solid #979797;
+  box-shadow: 0 2px 34px 0 rgba(0,0,0,0.50);
+}
+
+.rectangle h1 {
+  font-family: AppleSDGothicNeo-Regular;
+  font-size: 36px;
+  color: #000000;
+  text-align: left;
+}
+
+.rectangle p {
+  font-family: Helvetica;
+  font-size: 36px;
+  color: #000000;
+  text-align: left;
+}
